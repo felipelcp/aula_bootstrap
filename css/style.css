@@ -1,0 +1,26 @@
+body{
+    font: 30px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #FFFF81 ;
+}
+
+.quem-somos{
+    background-color: gainsboro;
+    color: black;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.parceiros{
+    background-color: cornflowerblue;
+    color: black;
+}
+.footer{
+    background-color: black;
+    color: white;
+    font: 10px Arial, sans-serif;
+}
